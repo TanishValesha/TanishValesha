@@ -7,13 +7,13 @@
 
 ## About Me
 
-I'm a passionate Full Stack Developer with a strong focus on building real-world, scalable web applications. I enjoy designing systems, creating high-impact SaaS tools, and exploring the edge of AI integration with practical use cases.
+I'm a passionate Full Stack Developer with a strong focus on building real-world, scalable web applications. I enjoy designing systems, creating high-impact SaaS tools, and expertise around building scalable and efficient full-stack apps
 
-- 🚀 Currently building AI-first platforms like mock interview SaaS apps & real-time collaborative tools
-- 💡 Interested in YC startups, internships, and impactful feature-building contributions
-- 🎯 Focused on system design, performance optimization, and developer tooling
-- 🧠 Exploring RAG, embeddings, and production-grade AI workflows
-- 📚 Self-driven learner, constantly shipping side-projects and refining problem-solving skills
+- Currently building AI-first platforms like mock interview SaaS apps & real-time collaborative tools
+- Interested in YC startups, internships, and impactful feature-building contributions
+- Focused on system design, performance optimization, and developer tooling
+- Open to connect with fellow dev enthusiasts
+- Journey to be a cracked dev
 
 ## Tech Stack
 
@@ -45,7 +45,7 @@ I'm a passionate Full Stack Developer with a strong focus on building real-world
   </a>
 </p>
 
-<!--
+
 ## GitHub Analytics
 
 <div align="center">
@@ -58,22 +58,13 @@ I'm a passionate Full Stack Developer with a strong focus on building real-world
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TanishValesha&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TanishValesha&theme=nord&hide_border=true" alt="GitHub Streak"/>
 </div>
--->
+
 
 ## Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tanish-valesha-40a7751b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/tanish_valesha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-</p>
-
-## Coding Profiles
-
-<p align="left">
-  <!-- Add your handles here when ready -->
-  <!-- <a href="https://codeforces.com/profile/YOUR_HANDLE"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/></a> -->
-  <!-- <a href="https://www.codechef.com/users/YOUR_HANDLE"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/></a> -->
-  <!-- <a href="https://leetcode.com/YOUR_HANDLE/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a> -->
 </p>
 
 ---
